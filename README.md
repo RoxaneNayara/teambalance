@@ -64,6 +64,14 @@ O TeamBalance considera a **capacidade semanal cadastrada** para cada colaborado
 
 > **Nota:** a carga é agregada, sem distribuição automática por dia ou semana. Atividades concluídas e canceladas não entram no cálculo de horas alocadas.
 
+## Regras de Negócio
+
+O TeamBalance possui uma especificação funcional que estabelece as regras de cadastro, gerenciamento de atividades, cálculo de capacidade, distribuição de demandas e persistência dos dados.
+
+As regras estão organizadas por funcionalidades e identificadas individualmente para facilitar sua consulta e manutenção.
+
+[Consultar Regras de Negócio — Versão 1.0](docs/Regras_de_Negocio_v1.0.md)
+
 ## Tecnologias utilizadas
 
 - **HTML5** — estrutura da aplicação.
