@@ -124,9 +124,9 @@ A publicação no GitHub Pages e o uso de localStorage não representam comparti
 
 | Participante | Parecer | Data |
 | --- | --- | --- |
-| Marluce Vitor | Aprovado | — |
-| Gustavo Siqueira | Aprovado | — |
-| Rubiana Mendes | Aprovado | — |
-| Roxane Nayara | Aprovado | — |
+| Marluce Vitor | Aprovado | 15/10/26 |
+| Gustavo Siqueira | Aprovado | 15/10/26 |
+| Rubiana Mendes | Aprovado | 15/10/26 |
+| Roxane Nayara | Aprovado | 15/10/26 |
 
 Status: Aprovado pelo grupo.
