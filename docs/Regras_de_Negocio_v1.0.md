@@ -129,4 +129,4 @@ A publicação no GitHub Pages e o uso de localStorage não representam comparti
 | Rubiana Mendes | Aprovado | 15/10/26 |
 | Roxane Nayara | Aprovado | 15/10/26 |
 
-Status: Aprovado pelo grupo.
+Status: Aprovado pelo grupo ✅.
