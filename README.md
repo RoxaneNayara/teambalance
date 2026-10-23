@@ -72,6 +72,14 @@ As regras estão organizadas por funcionalidades e identificadas individualmente
 
 [Consultar Regras de Negócio — Versão 1.0](docs/Regras_de_Negocio_v1.0.md)
 
+## Relatório de Testes
+
+O TeamBalance passou por uma avaliação funcional das 54 regras de negócio, contemplando gestão de colaboradores, atividades, cálculos de capacidade, simulador, dashboard e persistência dos dados.
+
+O relatório consolidado apresenta as abordagens utilizadas, os resultados da execução, os defeitos identificados e os principais aprendizados.
+
+[Consultar Relatório Consolidado de Testes](docs/TeamBalance_Relatorio_Consolidado_Publico_Atualizado.md)
+  
 ## Tecnologias utilizadas
 
 - **HTML5** — estrutura da aplicação.
