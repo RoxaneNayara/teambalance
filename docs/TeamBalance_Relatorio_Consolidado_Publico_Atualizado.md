@@ -12,7 +12,7 @@
 
 ## 1. Visão geral
 
-O TeamBalance é uma aplicação de gestão de capacidade de equipes. A especificação funcional (aprovada pelo grupo) define 54 regras de negócio (RN01 a RN54) em seis áreas. Este documento consolida os relatórios de teste produzidos pelo grupo, apresentando técnicas, artefatos, testes executados em ordem de regra, defeitos, aprendizados e conclusão.
+O TeamBalance é uma aplicação de gestão de capacidade de equipes. A especificação funcional (aprovada pelo grupo) define 54 regras de negócio (RN01 a RN54) em seis áreas. Este documento consolida os relatórios de teste manuais produzidos pelo grupo, apresentando técnicas, artefatos, testes executados em ordem de regra, defeitos, aprendizados e conclusão.
 
 | Área | Regras | Fonte consolidada |
 | --- | --- | --- |
