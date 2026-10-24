@@ -8,7 +8,7 @@
 
 > **Versão pública:** consolidação de resultados, sem anexos, capturas de tela ou links privados de evidências. Os resultados registrados refletem as execuções relatadas pelos integrantes.
 
-> **Atualização da consolidação:** RN08 e RN18 foram confirmadas pelo grupo como testadas e aprovadas. Mantêm-se as observações e defeitos registrados nas demais regras.
+> **Atualização da consolidação:** Mantêm-se as observações e defeitos registrados em algumas regras.
 
 ## 1. Visão geral
 
