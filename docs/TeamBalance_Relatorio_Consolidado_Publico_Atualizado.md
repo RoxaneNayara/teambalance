@@ -22,7 +22,7 @@ O TeamBalance é uma aplicação de gestão de capacidade de equipes. A especifi
 | Visão geral e filtros | RN37–RN45 | Relatório TeamBalance (Notion), casos CT01–CT15 |
 | Persistência e proteção dos dados | RN46–RN54 | Relatório de execução RN46–RN54 |
 
-**Resultado consolidado:** as 54 regras foram testadas. Destas, 52 apresentam resultado aprovado nos cenários executados (algumas com observações ou defeitos de apresentação associados) e 2 apresentam não conformidade: RN02 (cadastro de função contendo apenas espaços) e RN54 (erro de gravação apresentado atrás do modal). RN08 e RN18 estão aprovadas. Foram registrados 4 defeitos no total; as observações e dúvidas de refinamento permanecem documentadas.
+**Resultado consolidado:** as 54 regras foram testadas. Destas, 52 apresentam resultado aprovado nos cenários executados (algumas com observações ou defeitos de apresentação associados) e 2 apresentam não conformidade: RN02 (cadastro de função contendo apenas espaços) e RN54 (erro de gravação apresentado atrás do modal). Foram registrados 4 defeitos no total; as observações e dúvidas de refinamento permanecem documentadas.
 
 ## 2. Técnicas utilizadas
 
@@ -190,7 +190,7 @@ Rastreabilidade, independência dos testes e múltiplos caminhos. Relacionar reg
 
 As 54 regras de negócio do TeamBalance foram testadas; 52 tiveram resultado aprovado nos cenários executados e 2 apresentaram não conformidade (RN02 e RN54). A avaliação contemplou: validações de cadastro, cálculos de capacidade, classificação de utilização, simulador, filtros, indicadores, persistência local e confirmações de operações destrutivas.
 
-Foram identificados quatro defeitos: aceitação de função com somente espaços (RN02), mensagem de erro de persistência ocultada pelo modal (RN54), filtro de responsável invisível após recarregar os dados de exemplo (RN43/RN44) e percentual “100%” exibido junto de “Sobrecarga” (RN39). RN08 e RN18 foram executadas e aprovadas. Permanecem as dúvidas de refinamento sobre RN38, RN42 e RN45, além das demais observações detalhadas neste relatório.
+Foram identificados quatro defeitos: aceitação de função com somente espaços (RN02), mensagem de erro de persistência ocultada pelo modal (RN54), filtro de responsável invisível após recarregar os dados de exemplo (RN43/RN44) e percentual “100%” exibido junto de “Sobrecarga” (RN39). Permanecem as dúvidas de refinamento sobre RN38, RN42 e RN45, além das demais observações detalhadas neste relatório.
 
 O trabalho mostrou o valor de combinar técnicas formais com exploração, confrontar a especificação com o código antes da execução e manter evidências e rastreabilidade. Os resultados refletem as execuções relatadas pelo grupo e não garantem a ausência de outros defeitos.
 
